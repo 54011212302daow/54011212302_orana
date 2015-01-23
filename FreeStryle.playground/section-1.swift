@@ -4,6 +4,7 @@
 
 var str = "Hello, playground"*/
 
+
 var shoppingList: [String] = ["Eggs","Milk"]
 let possibleTipsInferred  = [0.15,0.18,0.20]
 let possibleTipsExplicit:[Double] = [0.15,0.18,0.20]
