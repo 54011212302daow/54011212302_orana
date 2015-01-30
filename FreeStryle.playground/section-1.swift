@@ -1,27 +1,16 @@
-// Playground - noun: a place where people can play
-
-/*import UIKit
-
-var str = "Hello, playground"*/
-
-
-var shoppingList: [String] = ["Eggs","Milk"]
-let possibleTipsInferred  = [0.15,0.18,0.20]
-let possibleTipsExplicit:[Double] = [0.15,0.18,0.20]
-var number0fItems = possibleTipsInferred.count
-
-shoppingList.isEmpty
-
-//var firstItem = shoppingList[3]
-
-shoppingList += ["dog","fish"]
-shoppingList.insert("Maple Syrup", atIndex: 0)
-shoppingList.append("Flour")
-shoppingList += ["Baking Powder"]
-
-var firstItem = shoppingList[0]
-
-shoppingList[4...6] = ["Bananas","Apples"]
-
-let apples = shoppingList.removeLast()
-let mapleSyrup = shoppingList.removeAtIndex(0)
+class electricity {
+   
+    init (a:Double,b:Double,c:Double){
+        /*self.w = a
+        self.n = b
+        self.hr = c*/
+       
+        countE(a, b: b, c: c)
+    }
+    func countE(a:Double,b:Double,c:Double) ->Double{
+        var x = 0.0
+        x = (a * b * c) / 1000
+        return x
+    }
+   }
+let c = electricity(a: 90, b: 1, c: 18)
