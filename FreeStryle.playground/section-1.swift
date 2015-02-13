@@ -4,6 +4,7 @@ class electricity {
         /*self.w = a
         self.n = b
         self.hr = c*/
+        let v: [Double] = [2.30,3.40,90]
        
         countE(a, b: b, c: c)
     }
