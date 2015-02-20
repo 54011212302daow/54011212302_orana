@@ -36,6 +36,10 @@ class ViewController: UIViewController, UITableViewDelegate {
         return 1
     }
     
+    func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath!) {
+        
+    }
+    
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath!) -> UITableViewCell! {
         var cell = UITableViewCell(style: UITableViewCellStyle.Value2, reuseIdentifier: nil)
         
