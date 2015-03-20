@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9FE40F51-615C-416F-93EC-EC1C5439371F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>coreDataExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D2054FEA65C9527F96A156E52C464AA780E49B01</key>
+		<string>https://github.com/54011212302daow/54011212302_orana.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>coreDataExample/coreDataExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D2054FEA65C9527F96A156E52C464AA780E49B01</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/54011212302daow/54011212302_orana.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D2054FEA65C9527F96A156E52C464AA780E49B01</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D2054FEA65C9527F96A156E52C464AA780E49B01</string>
+			<key>IDESourceControlWCCName</key>
+			<string>54011212302_orana</string>
+		</dict>
+	</array>
+</dict>
+</plist>
