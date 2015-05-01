@@ -33,7 +33,7 @@ class ViewController: UIViewController, UICollisionBehaviorDelegate{
     @IBAction func animation(sender: AnyObject) {
         
         let numberOfFish = Int(self.NumberSlider.value)
-        for loopNumber in 0...numberOfFish{
+        for loopNumber in 0...10{//numberOfFish
             let duration = 5.0
             let options = UIViewAnimationOptions.CurveLinear
             
